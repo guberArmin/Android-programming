@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">No Foreign Land</string>
+    <string name="fetching_data">Fetching data</string>
+    <string name="no_foreign_land">No foreign land</string>
+    <string name="sail_boat_image">Sail boat image</string>
+    <string name="location_picture">location picture</string>
+    <string name="sample_text">Sample text</string>
+    <string name="fetching_data_message">Fetching data</string>
+    <string name="number_of_elements">Number of elements</string>
+    <string name="menu">menu</string>
+    <string name="get_latest_data">Get latest data</string>
+    <string name="should_download_data_automatically">Download data automatically</string>
+    <string name="re_download_data">Re-download data</string>
+    <string name="logo_image">Logo image</string>
+</resources>

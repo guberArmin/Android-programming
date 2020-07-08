@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#31708E</color>
+    <color name="colorPrimaryDark">#5085A5</color>
+    <color name="colorAccent">#8FC1E3</color>
+    <color name="colorRed">#f55142</color>
+    <color name="sailorBlue">#31708E</color>
+</resources>
